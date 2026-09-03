@@ -6,7 +6,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, fil
 
 # ===== CONFIGURATION - CHANGE THIS =====
 BOT_TOKEN = "8355200203:AAFQfJTnMhJcn6b_Tvrgav1uMWhSi5LATpM"
-ADMIN_IDS = [123456789]  # REPLACE WITH YOUR TELEGRAM USER ID!
+ADMIN_IDS = [123456789]  # CHANGE THIS TO YOUR ID
 # ======================================
 
 logging.basicConfig(
